@@ -77,7 +77,7 @@
     <projectlombok.version>1.16.20</projectlombok.version>
     <druid.version>1.1.10</druid.version>
     <shiro-spring.version>1.4.0</shiro-spring.version>
-    <fastjson-version>1.2.46</fastjson-version>
+    <fastjson-version>1.2.83</fastjson-version>
   </properties>
     <!--dependencies子项目自动继承-->
     <dependencies>
